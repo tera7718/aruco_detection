@@ -1,0 +1,6 @@
+int32[] ids          # ほしいマーカー ID の配列
+---
+string[] item
+geometry_msgs/Point32[] positions  
+string[] barcode
+bool[]                found        # True: 検出 / False: 未検出

@@ -1,0 +1,20 @@
+aruco:
+  markers:
+    - id:      2
+      barcode: "00000000000"
+      name:    "onigiri"        # 必要なら種類も
+    - id:      3
+      barcode: "00000000001"
+      name:    "onigiri"
+    - id:      5
+      barcode: "98765432109"
+      name:    "orange juice"    # 必要なら種類も
+    - id:      6
+      barcode: "98765432110"
+      name:    "orange juice"
+    - id:      7
+      barcode: "12345678901"
+      name:    "sandwich"    # 必要なら種類も
+    - id:      8
+      barcode: "12345678902"
+      name:    "sandwich"
